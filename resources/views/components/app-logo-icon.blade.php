@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logox40.png') }}" {{ $attributes }} alt="ANP">
